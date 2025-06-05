@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on real-world full stack projects using React, Next.js, and Node.js.
 - 💡 I enjoy creating responsive web apps, REST APIs, and scalable frontend/backend systems.
 - 💬 Ask me about `React`, `Next.js`, `Node.js`, `MongoDB`, `HTML`, `CSS`, and `Express.js`.
-- 📫 Reach me at **shouravkumar2025@gmail.com**
+
 
 ---
 
