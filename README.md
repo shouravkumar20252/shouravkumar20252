@@ -2,8 +2,9 @@
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Next.js+%7C+React+%7C+Node.js;Clean+and+Scalable+Code+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Next.js+%7C+React+%7C+Node.js;Clean+and+Scalable+Code+Lover" alt="Typing SVG" />
 </p>
+
 
 ---
 
